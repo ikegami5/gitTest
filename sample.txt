@@ -1,2 +1,4 @@
 It's sample!
 add message
+
+merge test 2
